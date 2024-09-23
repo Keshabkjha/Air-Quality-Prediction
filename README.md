@@ -76,12 +76,12 @@ Clone the repository:
    cd Air-Quality-Prediction
   ```
 ## Dependencies
-  • Python 3.x
-  • Scikit-learn
-  • Pandas
-  • NumPy
-  • Matplotlib
-  • Seaborn
+  - Python 3.x
+  - Scikit-learn
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
 ## License 
   This project is licensed under the MIT License. See the LICENSE (https://www.kaggle.com/code/keshabkkumar/air-quality-prediction) file for details.
 
